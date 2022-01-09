@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: okay@samesies.io
-baseurl: "https://mvillarreal88.github.io/"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
