@@ -1,5 +1,5 @@
 # Site settings
-title: "Carte Noire"
+title: "matthew_villarreal's blog"
 email: vmatthew360@gmail.com
 description: "A dark blog theme for Jekyll."
 baseurl: ""
@@ -8,18 +8,18 @@ title_description: "A dark blog theme for Jekyll focusing on a clear reading exp
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+github_repository: https://github.com/Mvillarreal88
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
+twitter_username: 
+github_username:  Mvillarreal88
 instagram_username: 
 reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+linkedin_link: https://www.linkedin.com/in/matthew-villarreal-1060a/
+google_plus_link: 
+stackoverflow_link: https://stackoverflow.com/users/15524268/matthew-villarreal
 xing_link:
 facebook_link:
 
