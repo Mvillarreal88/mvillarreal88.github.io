@@ -1,22 +1,21 @@
 ---
 layout:     post
-title:      Welcome to Carte Noire
-date:       2015-03-23 15:31:19
-author:     Jacob Tomlinson
-summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
-categories: jekyll
+title:      Welcome to My first blog post
+date:       2022-08-10
+author:     Matthew Villarreal
+summary:    Learning and utilizing tips and tricks in python early in my career
+categories: Python
 thumbnail:  heart
 tags:
- - welcome
- - to
- - carte
- - noire
+ - Python
+ - importing libraries
+ - file pathing
+ - basic functions
 ---
 
-Welcome to Carte Noire.
+Welcome to my first blog post. 
 
-Carte Noire began as a new theme for [my personal blog][1], but has now taken
-on a life of its own as a free theme for Jekyll.
+I would first like to point out that I LOVE all feedback on the work that I do. So please if you have any comments or suggestions on any posts, feel free to offer your comments below. 
 
 The theme has been designed with simplicity and readability in mind. It makes
 use of third party services such as Disqus ad AddThis to ensure the blog has
