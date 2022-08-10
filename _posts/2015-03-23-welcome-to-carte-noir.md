@@ -23,6 +23,5 @@ use of third party services such as Disqus ad AddThis to ensure the blog has
 all the features you would expect from a dynamic application such as Wordpress
 but with the hosting and maintenance simplicity of Jekyll.
 
-Please use/copy/share Carte Noire!
 
 [1]: http://www.jacobtomlinson.co.uk/
