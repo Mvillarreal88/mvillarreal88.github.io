@@ -15,7 +15,7 @@ tags:
 
 Welcome to my first blog post. 
 
-I would first like to point out that I LOVE all feedback on the work that I do. So please if you have any comments or suggestions on any posts, feel free to offer your comments below. 
+I would first like to point out that I LOVE all feedback on the work that I do. So please if you have any comments or suggestions on any posts, feel free to offer your comments below. For this blog posts I will be diving into one of my first projects I did in Data Analytics school that involved Python. I have attached the link to this project [here](https://github.com/Mvillarreal88/Bank-and-Polling-Python-Analysis-)
 
 The theme has been designed with simplicity and readability in mind. It makes
 use of third party services such as Disqus ad AddThis to ensure the blog has
