@@ -5,7 +5,7 @@ date:       2022-08-10
 author:     Matthew Villarreal
 summary:    Learning and utilizing tips and tricks in python early in my career
 categories: Python
-thumbnail:  heart
+thumbnail:  
 tags:
  - Python
  - importing libraries
